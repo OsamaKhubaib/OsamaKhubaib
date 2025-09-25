@@ -7,11 +7,10 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 
-  <a href="https://www.youtube.com/playlist?list=PLIU5O_PDxNPhElJOMdIOuPNF1ZrI-pSiH">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="https://www.youtube.com/playlist?list=PLIU5O_PDxNPhElJOMdIOuPNF1ZrI-pSiH
   </a>
 
   <a href="https://www.OsamaKhubaib.me">
-    <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+
   </a>
 </p>
