@@ -8,10 +8,9 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.youtube.com/playlist?list=PLIU5O_PDxNPhElJOMdIOuPNF1ZrI-pSiH">
-    <img src="https://img.shields.io/badge/Mastering%20AI%20Algorithm-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  <img src=""
   <a href="https://www.OsamaKhubaib.me">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2ECC71?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/>
+
   </a>
 </p>
 
